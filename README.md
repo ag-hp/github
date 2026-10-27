@@ -1,15 +1,29 @@
-# Parte 1 - Trucos Github
-
----
-
 ## 1. Badges
 
 [![build](https://github.com/arpy-2/github/actions/workflows/blank.yml/badge.svg)](https://github.com/arpy-2/github/actions/workflows/blank.yml)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template?template=TU_TEMPLATE_URL)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ag-hp/REPO)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/ag-hp/REPO/tree/main)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ag-hp/REPO)
+[![Edit in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/ag-hp/REPO)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/ag-hp/REPO)
+[![Remix on Glitch](https://img.shields.io/badge/Remix%20on-Glitch-FF0096?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com/edit/#!/import/github/ag-hp/REPO)
+[![Deploy to Firebase](https://img.shields.io/badge/Deploy%20to-Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://console.firebase.google.com/)
+[![Run on Replit](https://img.shields.io/badge/Run%20on-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/ag-hp/REPO)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ag-hp/REPO)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ag-hp/REPO)
+
+
+formato 2:
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/ag-hp/REPO" target="_blank">
+  <img src="https://vercel.com/button" alt="Deploy with Vercel">
+</a>
 
 ---
 
 ## 2. Repositorios
-Cogemos la url del repositorio, por ejemplo "https://github.com/arpy-2/github/edit/main/README.md" y cambiamos "...//github.com/..." por "...//deepwiki.com/..." (solo esa parte dejando todo lo demás igual en la url). Después de eso tendremos una documentacion completa generada por ia de ese repositorio.
+
+
 
 ---
 
